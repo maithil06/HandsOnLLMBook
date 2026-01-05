@@ -109,3 +109,52 @@ hands-on-llms/
 ├── experiments/
 ├── utils/
 └── README.md
+```
+
+## 🛠️ Tech Stack
+
+- **Language:** Python  
+- **Frameworks:** PyTorch, Hugging Face Transformers, LangChain  
+- **Vector Databases:** FAISS, Chroma  
+- **LLM APIs:** OpenAI API, Local LLMs  
+- **Visualization:** Matplotlib, Seaborn  
+- **Tooling:** Jupyter Notebook, VS Code, Git  
+
+---
+
+## 🎯 Project Goals
+
+This repository is designed to be:
+
+- a **complete practical reference for LLM engineering**
+- a **hands-on learning log**
+- a **portfolio project for ML & LLM roles**
+- an **experimentation platform for modern AI systems**
+
+---
+
+## 📈 Roadmap
+
+- [ ] Real-world RAG systems  
+- [ ] Multi-agent orchestration  
+- [ ] LLM evaluation pipelines  
+- [ ] Production deployment workflows  
+- [ ] LLMOps monitoring & observability  
+
+---
+
+## 🤝 Contributing
+
+Contributions, feedback, and discussions are welcome.  
+Feel free to open issues or submit pull requests.
+
+---
+
+## 📖 Reference
+
+**Hands-On Large Language Models: Language Understanding and Generation**  
+_O’Reilly Media_
+
+This repository is an independent learning companion and is not affiliated with O’Reilly.
+
+
