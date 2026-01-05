@@ -1,57 +1,111 @@
-# 📘 Hands-On Machine Learning — Learning & Code Companion
+# 🧠 Hands-On Large Language Models  
+### Learning & Code Companion
 
-This repository documents my **learning journey through the book _“Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow” (O’Reilly)_**, with fully implemented code examples, experiments, notes, and extensions.
+This repository documents my **end-to-end learning journey through the book**  
+**_Hands-On Large Language Models: Language Understanding and Generation_ (O’Reilly)**,  
+with full code implementations, experiments, notes, and practical extensions.
 
-The goal of this project is not just to reproduce the book’s content, but to:
-- deeply understand each concept,
-- implement everything from scratch,
-- experiment with real-world variations, and  
-- build a reusable machine learning reference library.
-
-All code in this repository is written, tested, and structured for practical use in real ML projects.
+This is not just a reproduction of the book’s material.  
+It is a hands-on engineering project focused on:
+- deep understanding of modern LLM systems,
+- building everything from scratch,
+- experimenting beyond textbook examples, and
+- creating reusable components for real-world applications.
 
 ---
 
-## 🧠 What This Repository Contains
+## 📚 Learning Coverage
 
-- 📂 **Chapter-wise notebooks & scripts**  
-- 🧪 **Experiments & model comparisons**  
-- 🧱 **From-scratch implementations**  
-- 📝 **Concept notes & explanations**  
-- 🔧 **Practical ML pipelines**  
-- 📊 **Visualisations & evaluation metrics**  
-- 🚀 **Extensions beyond the book examples**
+### **Part I — Understanding Language Models**
+- Introduction to Large Language Models  
+- Representing Language & Embeddings  
+- Attention & Transformer Architectures  
+- Encoder-Only and Decoder-Only Models  
+- Training Paradigms of LLMs  
+- Responsible LLM Development  
 
-Every major topic from the book is paired with clear code, reproducible results, and additional experiments.
+### **Part II — Using Pretrained Language Models**
+- Text Classification  
+- Clustering & Topic Modeling  
+- Prompt Engineering  
+- Advanced Text Generation  
+- Memory & Agent Systems  
+- Semantic Search & RAG  
+- Multimodal Language Models  
+
+### **Part III — Training & Fine-Tuning Language Models**
+- Training Embedding Models  
+- Contrastive Learning & SBERT  
+- Fine-Tuning BERT  
+- Generative Model Fine-Tuning  
+- PEFT, LoRA & Quantization  
+- RLHF & Preference Optimization  
 
 ---
 
 ## 🗂️ Repository Structure
 
 ```text
-hands-on-ml-learning/
+hands-on-llms/
 │
-├── 01_fundamentals/
-├── 02_end_to_end_ml_project/
-├── 03_classification/
-├── 04_training_models/
-├── 05_support_vector_machines/
-├── 06_decision_trees/
-├── 07_ensemble_learning/
-├── 08_dimensionality_reduction/
-├── 09_unsupervised_learning/
-├── 10_neural_networks/
-├── 11_training_deep_networks/
-├── 12_custom_models_and_training/
-├── 13_tensorflow_data_pipelines/
-├── 14_cnn/
-├── 15_rnn_and_lstm/
-├── 16_nlp_with_rnns_and_transformers/
-├── 17_autoencoders_and_gans/
-├── 18_reinforcement_learning/
+├── 01_understanding_language_models/
+│   ├── introduction_to_llms.ipynb
+│   ├── embeddings_and_attention.ipynb
+│   ├── transformer_architectures.ipynb
+│   └── notes.md
+│
+├── 02_tokens_and_embeddings/
+│   ├── tokenization_experiments.ipynb
+│   ├── word_vs_subword.ipynb
+│   ├── contextual_embeddings.ipynb
+│   └── notes.md
+│
+├── 03_inside_transformers/
+│   ├── forward_pass.ipynb
+│   ├── attention_mechanisms.ipynb
+│   ├── caching_and_speedup.ipynb
+│   └── notes.md
+│
+├── 04_text_classification/
+│   ├── sentiment_analysis.ipynb
+│   ├── embedding_based_classification.ipynb
+│   └── notes.md
+│
+├── 05_clustering_and_topic_modeling/
+│   ├── text_clustering_pipeline.ipynb
+│   ├── bertopic.ipynb
+│   └── notes.md
+│
+├── 06_prompt_engineering/
+│   ├── prompting_strategies.ipynb
+│   ├── chain_of_thought.ipynb
+│   ├── tree_of_thought.ipynb
+│   └── notes.md
+│
+├── 07_advanced_text_generation/
+│   ├── langchain_chains.ipynb
+│   ├── memory_and_agents.ipynb
+│   └── notes.md
+│
+├── 08_semantic_search_and_rag/
+│   ├── vector_search.ipynb
+│   ├── rag_pipeline.ipynb
+│   ├── rag_evaluation.ipynb
+│   └── notes.md
+│
+├── 09_multimodal_models/
+│   ├── clip_and_embeddings.ipynb
+│   ├── image_captioning.ipynb
+│   └── notes.md
+│
+├── 10_training_and_finetuning/
+│   ├── embedding_training.ipynb
+│   ├── sbert_and_contrastive.ipynb
+│   ├── finetuning_bert.ipynb
+│   ├── peft_and_lora.ipynb
+│   └── notes.md
 │
 ├── datasets/
-├── utils/
 ├── experiments/
-├── notes/
+├── utils/
 └── README.md
