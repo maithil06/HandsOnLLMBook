@@ -1,6 +1,9 @@
 # 🧠 Hands-On Large Language Models  
 ### Learning & Code Companion
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AQs5R8om93AFp7v-EyZZxTtqO_eGk8Lg?authuser=1)
+
+
 This repository documents my **end-to-end learning journey through the book**  
 **_Hands-On Large Language Models: Language Understanding and Generation_ (O’Reilly)**,  
 with full code implementations, experiments, notes, and practical extensions.
