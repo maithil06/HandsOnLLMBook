@@ -3,8 +3,7 @@
 This chapter provides a foundational overview of the **Language AI landscape**, tracing the evolution of the field from early statistical methods to the modern era of **Generative AI**.
 ---
 
-<img width="2752" height="1536" alt="Chapter 1 Summary" src="https://github.com/user-attachments/assets/a92a7bd4-c3dd-44a5-8bd5-ef96c4d25409" />
-
+<img width="1376" height="768" alt="Chapter 1 Summary" src="https://github.com/user-attachments/assets/73e77893-91e6-4e12-8c86-74c1706a1796" />
 
 
 ##  The Evolution of Language AI
