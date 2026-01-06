@@ -1,9 +1,6 @@
 # Hands-On Large Language Models  
 ### Learning and Code Companion
 
-### Open in Colab  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AQs5R8om93AFp7v-EyZZxTtqO_eGk8Lg?usp=sharing)
-
 This repository documents my **end-to-end learning journey through the book**  
 **_Hands-On Large Language Models: Language Understanding and Generation_ (O’Reilly)**  
 with full code implementations, experiments, notes, and practical extensions.
@@ -24,9 +21,9 @@ It is a hands-on engineering project focused on:
 
 | Chapter | Topic | Status |
 |--------|------|--------|
-| 1 | Introduction to Large Language Models | [Colab Notebook](https://colab.research.google.com/drive/1AQs5R8om93AFp7v-EyZZxTtqO_eGk8Lg?usp=sharing) |
-| 2 | Tokens and Embeddings | [Colab Notebook](https://colab.research.google.com/drive/1AQs5R8om93AFp7v-EyZZxTtqO_eGk8Lg?usp=sharing) |
-| 3 | Attention and Transformer Architectures | [Colab Notebook](https://colab.research.google.com/drive/1AQs5R8om93AFp7v-EyZZxTtqO_eGk8Lg?usp=sharing) |
+| 1 | Introduction to Large Language Models | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AQs5R8om93AFp7v-EyZZxTtqO_eGk8Lg?usp=sharing) |
+| 2 | Tokens and Embeddings | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LUxvelvWzG1EyrUaBmK3CA1QV0vWU4Qj?usp=sharing) |
+| 3 | Attention and Transformer Architectures | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wIHU_q9CiUDSsRjbuL2bgpCd-F0SMBLy?usp=sharing) |
 | 4 | Encoder-Only and Decoder-Only Models | Yet to be published |
 | 5 | Training Paradigms of LLMs | Yet to be published |
 | 6 | Responsible LLM Development | Yet to be published |
