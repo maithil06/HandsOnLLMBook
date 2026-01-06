@@ -1,119 +1,86 @@
-# 🧠 Hands-On Large Language Models  
-### Learning & Code Companion
+# Hands-On Large Language Models  
+### Learning and Code Companion
 
+### Open in Colab  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AQs5R8om93AFp7v-EyZZxTtqO_eGk8Lg?usp=sharing)
 
-
 This repository documents my **end-to-end learning journey through the book**  
-**_Hands-On Large Language Models: Language Understanding and Generation_ (O’Reilly)**,  
+**_Hands-On Large Language Models: Language Understanding and Generation_ (O’Reilly)**  
 with full code implementations, experiments, notes, and practical extensions.
 
 This is not just a reproduction of the book’s material.  
 It is a hands-on engineering project focused on:
-- deep understanding of modern LLM systems,
-- building everything from scratch,
-- experimenting beyond textbook examples, and
-- creating reusable components for real-world applications.
+
+- deep understanding of modern LLM systems  
+- building everything from scratch  
+- experimenting beyond textbook examples  
+- creating reusable components for real-world applications  
 
 ---
 
-## 📚 Learning Coverage
+## Learning Coverage
 
-### **Part I — Understanding Language Models**
-- Introduction to Large Language Models  
-- Representing Language & Embeddings  
-- Attention & Transformer Architectures  
-- Encoder-Only and Decoder-Only Models  
-- Training Paradigms of LLMs  
-- Responsible LLM Development  
+### Part I: Understanding Language Models
 
-### **Part II — Using Pretrained Language Models**
-- Text Classification  
-- Clustering & Topic Modeling  
-- Prompt Engineering  
-- Advanced Text Generation  
-- Memory & Agent Systems  
-- Semantic Search & RAG  
-- Multimodal Language Models  
-
-### **Part III — Training & Fine-Tuning Language Models**
-- Training Embedding Models  
-- Contrastive Learning & SBERT  
-- Fine-Tuning BERT  
-- Generative Model Fine-Tuning  
-- PEFT, LoRA & Quantization  
-- RLHF & Preference Optimization  
+| Chapter | Topic | Status |
+|--------|------|--------|
+| 1 | Introduction to Large Language Models | [Colab Notebook](https://colab.research.google.com/drive/1AQs5R8om93AFp7v-EyZZxTtqO_eGk8Lg?usp=sharing) |
+| 2 | Tokens and Embeddings | [Colab Notebook](https://colab.research.google.com/drive/1AQs5R8om93AFp7v-EyZZxTtqO_eGk8Lg?usp=sharing) |
+| 3 | Attention and Transformer Architectures | [Colab Notebook](https://colab.research.google.com/drive/1AQs5R8om93AFp7v-EyZZxTtqO_eGk8Lg?usp=sharing) |
+| 4 | Encoder-Only and Decoder-Only Models | Yet to be published |
+| 5 | Training Paradigms of LLMs | Yet to be published |
+| 6 | Responsible LLM Development | Yet to be published |
 
 ---
 
-## 🗂️ Repository Structure
+### Part II: Using Pretrained Language Models
+
+| Chapter | Topic | Status |
+|--------|------|--------|
+| 7 | Text Classification | Yet to be published |
+| 8 | Clustering and Topic Modeling | Yet to be published |
+| 9 | Prompt Engineering | Yet to be published |
+| 10 | Advanced Text Generation | Yet to be published |
+| 11 | Memory and Agent Systems | Yet to be published |
+| 12 | Semantic Search and RAG | Yet to be published |
+| 13 | Multimodal Language Models | Yet to be published |
+
+---
+
+### Part III: Training and Fine-Tuning Language Models
+
+| Chapter | Topic | Status |
+|--------|------|--------|
+| 14 | Training Embedding Models | Yet to be published |
+| 15 | Contrastive Learning and SBERT | Yet to be published |
+| 16 | Fine-Tuning BERT | Yet to be published |
+| 17 | Generative Model Fine-Tuning | Yet to be published |
+| 18 | PEFT, LoRA and Quantization | Yet to be published |
+| 19 | RLHF and Preference Optimization | Yet to be published |
+
+---
+
+## Repository Structure
 
 ```text
 hands-on-llms/
 │
 ├── 01_understanding_language_models/
-│   ├── introduction_to_llms.ipynb
-│   ├── embeddings_and_attention.ipynb
-│   ├── transformer_architectures.ipynb
-│   └── notes.md
-│
 ├── 02_tokens_and_embeddings/
-│   ├── tokenization_experiments.ipynb
-│   ├── word_vs_subword.ipynb
-│   ├── contextual_embeddings.ipynb
-│   └── notes.md
-│
 ├── 03_inside_transformers/
-│   ├── forward_pass.ipynb
-│   ├── attention_mechanisms.ipynb
-│   ├── caching_and_speedup.ipynb
-│   └── notes.md
-│
 ├── 04_text_classification/
-│   ├── sentiment_analysis.ipynb
-│   ├── embedding_based_classification.ipynb
-│   └── notes.md
-│
 ├── 05_clustering_and_topic_modeling/
-│   ├── text_clustering_pipeline.ipynb
-│   ├── bertopic.ipynb
-│   └── notes.md
-│
 ├── 06_prompt_engineering/
-│   ├── prompting_strategies.ipynb
-│   ├── chain_of_thought.ipynb
-│   ├── tree_of_thought.ipynb
-│   └── notes.md
-│
 ├── 07_advanced_text_generation/
-│   ├── langchain_chains.ipynb
-│   ├── memory_and_agents.ipynb
-│   └── notes.md
-│
 ├── 08_semantic_search_and_rag/
-│   ├── vector_search.ipynb
-│   ├── rag_pipeline.ipynb
-│   ├── rag_evaluation.ipynb
-│   └── notes.md
-│
 ├── 09_multimodal_models/
-│   ├── clip_and_embeddings.ipynb
-│   ├── image_captioning.ipynb
-│   └── notes.md
-│
 ├── 10_training_and_finetuning/
-│   ├── embedding_training.ipynb
-│   ├── sbert_and_contrastive.ipynb
-│   ├── finetuning_bert.ipynb
-│   ├── peft_and_lora.ipynb
-│   └── notes.md
 │
 ├── datasets/
 ├── experiments/
 ├── utils/
 └── README.md
 ```
-
 ## 🛠️ Tech Stack
 
 - **Language:** Python  
