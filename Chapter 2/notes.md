@@ -1,8 +1,8 @@
 # Chapter 2: Tokens and Embeddings
 
 This chapter explores the fundamental mechanisms that allow Large Language Models (LLMs) to process and understand text by converting raw language into numerical representations that neural networks can compute.
-
 ---
+<img width="1376" height="768" alt="Chapter 2 Summary" src="https://github.com/user-attachments/assets/e868d6ad-863c-42b6-9ba3-cf6d495da867" />
 
 ## Tokenization: The Language of Models
 
