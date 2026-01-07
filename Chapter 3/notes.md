@@ -4,6 +4,7 @@
 This document summarizes the core internal mechanisms of modern **Generative Large Language Models (LLMs)**, based on Chapter 3 of the book.
 
 ---
+<img width="1376" height="768" alt="unnamed" src="https://github.com/user-attachments/assets/aeab01d5-9a5a-4706-8a45-9c3b72cdefd2" />
 
 ## 🔁 1. High-Level Workflow: Autoregressive Generation
 
