@@ -10,6 +10,8 @@ The chapter contrasts two major paradigms:
 - **Generative Models** (sequence-to-sequence / decoder-based)
 
 ---
+<img width="1376" height="768" alt="unnamed (1)" src="https://github.com/user-attachments/assets/dce79138-486a-4191-ae4f-e2c685a4f3f5" />
+
 
 ## 🧩 1. Text Classification with Representation Models
 
