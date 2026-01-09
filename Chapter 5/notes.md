@@ -5,6 +5,8 @@ This chapter explores how to uncover structure and meaning from large collection
 The techniques are demonstrated on **ArXiv abstracts** from the *Computation and Language* domain.
 
 ---
+<img width="1376" height="768" alt="unnamed (2)" src="https://github.com/user-attachments/assets/b288214c-bfc1-44d5-8d8f-280b9bc6f761" />
+
 
 ## 🧠 Core Concepts
 
