@@ -6,6 +6,8 @@ This chapter explores how to build **complex, stateful LLM applications** — su
 The focus is on **system design**, **efficiency**, and **tool-augmented reasoning**.
 
 ---
+<img width="1376" height="768" alt="unnamed (5)" src="https://github.com/user-attachments/assets/75ab7e27-fe28-4128-a224-f249db6bfa4c" />
+
 
 ## 🧠 Overview
 
