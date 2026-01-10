@@ -24,7 +24,7 @@ It is a hands-on **engineering project** focused on:
 | 3 | Looking Inside Large Language Models (Attention & Transformers) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wIHU_q9CiUDSsRjbuL2bgpCd-F0SMBLy?usp=sharing) |
 | 4 | Text Classification | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1taboP3ZKhvjII_CtdQc6W5F20jyMnmjw?usp=sharing) |
 | 5 | Text Clustering and Topic Modeling | Coming Soon |
-| 6 | Prompt Engineering | Coming Soon |
+| 6 | Prompt Engineering | C[oming Soon](https://colab.research.google.com/drive/1y0STbjGz0_Z0_L7V4GY1RTBzzPYH7aws?usp=sharing) |
 | 7 | Advanced Text Generation Techniques & Tools | Coming Soon |
 | 8 | Semantic Search & Retrieval-Augmented Generation (RAG) | Coming Soon |
 | 9 | Multimodal Large Language Models | Coming Soon |
