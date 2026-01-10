@@ -4,6 +4,9 @@
 This chapter focuses on interacting effectively with **generative language models** (such as GPT-style models) to improve the quality, reliability, and usefulness of their outputs.
 
 ---
+<img width="1376" height="768" alt="unnamed (3)" src="https://github.com/user-attachments/assets/2925e2d8-ef3b-4a8a-aa4e-03dd98542871" />
+
+
 
 ## 🧠 Overview
 
