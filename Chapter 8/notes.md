@@ -1,6 +1,9 @@
 # 📓 Chapter 8 — Semantic Search & Retrieval-Augmented Generation (RAG)  
 ### *Hands-On Large Language Models*
 
+<img width="1376" height="768" alt="unnamed (6)" src="https://github.com/user-attachments/assets/1ea0ab23-e877-4c67-90c4-9c77e35372d9" />
+
+
 This chapter explains how to connect Large Language Models to **external knowledge sources** in order to solve two fundamental problems:
 
 1. **Lack of access to private or new data**
