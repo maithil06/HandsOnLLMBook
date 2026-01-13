@@ -27,7 +27,7 @@ It is a hands-on **engineering project** focused on:
 | 6 | Prompt Engineering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y0STbjGz0_Z0_L7V4GY1RTBzzPYH7aws?usp=sharing) |
 | 7 | Advanced Text Generation Techniques & Tools | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1crCoZ9GKH-Ct83Aig8Rrh7quRBlIBn0n?usp=sharing) |
 | 8 | Semantic Search & Retrieval-Augmented Generation (RAG) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19VYXBIfVV6E8nrL57Uo34U4BbfYtydVA?usp=sharing) |
-| 9 | Multimodal Large Language Models | Coming Soon |
+| 9 | Multimodal Large Language Models | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/drive/1cXmXPEC6PC_vL8Fji4Ibo0dBSWWuH6BU?usp=sharing) |
 | 10 | Creating Text Embedding Models | Coming Soon |
 | 11 | Fine-Tuning Representation Models | Coming Soon |
 | 12 | Fine-Tuning Generation Models | Coming Soon |
