@@ -6,6 +6,7 @@ This chapter explores how Large Language Models can be extended **beyond text** 
 Multimodal LLMs enable models to *see*, *understand*, and *describe* visual information using natural language.
 
 ---
+<img width="1376" height="768" alt="unnamed (7)" src="https://github.com/user-attachments/assets/4ac9d8c5-8c66-445a-818b-74d9635a576b" />
 
 ## 🧠 Overview
 
