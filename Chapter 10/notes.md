@@ -6,6 +6,8 @@ This chapter focuses on **text embedding models**, which form the foundation of 
 Rather than generating text, embedding models specialize in **representing meaning numerically**.
 
 ---
+<img width="1376" height="768" alt="unnamed (8)" src="https://github.com/user-attachments/assets/60825c49-f543-439e-9ef0-0db97461a3ca" />
+
 
 ## 🧠 Overview
 
