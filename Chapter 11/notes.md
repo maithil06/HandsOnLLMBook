@@ -6,6 +6,7 @@ This chapter focuses on adapting pretrained **representation models** such as BE
 While pretrained models work reasonably well out of the box, fine-tuning allows the model to internalize the nuances of a dataset and significantly improve downstream performance.
 
 ---
+<img width="1376" height="768" alt="unnamed (9)" src="https://github.com/user-attachments/assets/54a4ab12-daa8-4b0b-8bcd-6d903ece313c" />
 
 ## 🧠 Overview
 
