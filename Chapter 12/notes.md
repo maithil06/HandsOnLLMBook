@@ -6,6 +6,7 @@ This chapter explains how base foundation models are transformed into **helpful,
 Rather than focusing on representation learning, this chapter dives into **generation models**, alignment techniques, and practical training workflows used in modern LLM development.
 
 ---
+<img width="1376" height="768" alt="unnamed (10)" src="https://github.com/user-attachments/assets/662696d1-89c6-4896-9225-354b244bd3d9" />
 
 ## 🧠 Overview
 
